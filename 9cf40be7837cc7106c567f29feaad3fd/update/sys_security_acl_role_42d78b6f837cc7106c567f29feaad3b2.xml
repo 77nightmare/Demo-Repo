@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 07:31:15</sys_created_on>
+        <sys_id>42d78b6f837cc7106c567f29feaad3b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2056526_gayath_0_ai_table0.x_2056526_gayath_0.user</sys_name>
+        <sys_package display_value="Gayathri app" source="x_2056526_gayath_0">9cf40be7837cc7106c567f29feaad3fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gayathri app">9cf40be7837cc7106c567f29feaad3fd</sys_scope>
+        <sys_security_acl display_value="x_2056526_gayath_0_ai_table0">fdd78b6f837cc7106c567f29feaad39c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_42d78b6f837cc7106c567f29feaad3b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 07:31:15</sys_updated_on>
+        <sys_user_role display_value="x_2056526_gayath_0.user" name="x_2056526_gayath_0.user">64f44be7837cc7106c567f29feaad35a</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
