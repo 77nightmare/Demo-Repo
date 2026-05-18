@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="b0d74b6f837cc7106c567f29feaad33c" label="AI_Table" max_length="40" name="x_2056526_gayath_0_ai_table0" type="collection">
         <element label="AI_field" max_length="40" name="ai_field" type="string"/>
+        <element label="ai_fields" max_length="40" name="ai_fields" type="string"/>
+        <element label="ai_field2" max_length="40" name="ai_field2" type="string"/>
     </element>
 </database>
